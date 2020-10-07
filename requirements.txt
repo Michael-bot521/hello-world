@@ -1,7 +1,6 @@
 affine==2.3.0
 alabaster==0.7.12
 aldjemy==0.10.1
-anaconda-project==0.8.3
 appdirs==1.4.3
 argh==0.26.2
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1594339128775/work
