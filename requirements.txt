@@ -1,7 +1,6 @@
 affine==2.3.0
 alabaster==0.7.12
 aldjemy==0.10.1
-anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 appdirs==1.4.3
 argh==0.26.2
